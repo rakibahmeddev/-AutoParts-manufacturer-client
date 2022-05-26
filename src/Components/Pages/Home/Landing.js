@@ -3,8 +3,8 @@ import banner from "../../../assets/banner.webp";
 
 function Landing() {
   return (
-    <header className="bg-white dark:bg-gray-800">
-      <div className="container flex flex-col px-6 py-10 mx-auto space-y-6 lg:h-[32rem] lg:py-16 lg:flex-row lg:items-center px-20">
+    <header className="bg-white dark:bg-gray-800 py-20">
+      <div className="container flex flex-col py-20 mx-auto space-y-6 lg:h-[32rem] lg:py-16 lg:flex-row lg:items-center px-20">
         <div className="w-full lg:w-1/2">
           <div className="lg:max-w-lg ">
             <h1

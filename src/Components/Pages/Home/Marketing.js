@@ -7,7 +7,7 @@ function Marketing() {
       <h2 className=" text-2xl text-center font-medium sm:text-6xl ">
         Marketing Campaigns
       </h2>
-      <div className="max-w-screen-xl px-4 mt-8  mx-auto sm:px-6 lg:px-8">
+      <div className="max-w-screen-xl px-4 mt-8  pb-14 mx-auto sm:px-6 lg:px-8">
         <div className="max-w-lg mx-auto text-center">
           <p
             data-aos="fade-right"
