@@ -3,7 +3,7 @@ import logo from "../../assets/logo.webp";
 
 function Footer() {
   return (
-    <footer className="bg-gray-700">
+    <footer className="bg-emerald-700 text-white">
       <div className="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
         <div className="lg:flex lg:gap-8">
           <div>
@@ -14,12 +14,12 @@ function Footer() {
             <div className="col-span-2">
               <div>
                 <h2 className="text-2xl font-bold text-white">
-                  Get the latest news from Cavalry Parts
+                  Get the latest news from AutoParts
                 </h2>
 
                 <p className="mt-6 text-gray-400">
-                  We sell Bike parts , marketing our bussiness and many more
-                  things
+                  We sell private car parts , marketing our bussiness and many
+                  more things
                 </p>
               </div>
             </div>

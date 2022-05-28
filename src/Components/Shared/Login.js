@@ -56,13 +56,13 @@ function Login() {
         className="hidden bg-cover lg:block lg:w-1/2 rounded-lg"
         style={{
           backgroundImage:
-            'url("https://images.unsplash.com/photo-1606660265514-358ebbadc80d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1575&q=80")',
+            'url("https://images.unsplash.com/photo-1653708075361-512e506e69fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80")',
         }}
       ></div>
 
       <div className="w-full px-6 py-8 md:px-8 lg:w-1/2">
         <h2 className="text-2xl font-semibold text-center text-gray-700 dark:text-white ">
-          Cavalry Parts
+          AutoParts
         </h2>
 
         <p className="text-xl text-center text-gray-600 dark:text-gray-200 mb-3">
@@ -164,7 +164,7 @@ function Login() {
         <div className="mt-4">
           <p>
             <small>
-              New to Cavalry ?{" "}
+              New to AutoParts ?{" "}
               <Link className="text-primary" to={"/signup"}>
                 Create Account
               </Link>

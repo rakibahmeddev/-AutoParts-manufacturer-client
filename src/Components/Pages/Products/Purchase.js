@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 import { useAuthState } from "react-firebase-hooks/auth";
-import useSignleProduct from "../../Hooks/useSingleProduct";
+import useSignleProduct from "../../Hooks/useSignleProduct";
 import auth from "../../../firebase.init";
 import { toast } from "react-toastify";
 
