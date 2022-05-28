@@ -159,7 +159,7 @@ function Footer() {
             <div className="flex col-span-2 space-x-4 text-gray-500 lg:col-span-5">
               <a
                 className="hover:opacity-75"
-                href="https://web.facebook.com/BigBoyUllash"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
@@ -181,7 +181,7 @@ function Footer() {
 
               <a
                 className="hover:opacity-75"
-                href="https://www.instagram.com/ullash_4/"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
@@ -203,7 +203,7 @@ function Footer() {
 
               <a
                 className="hover:opacity-75"
-                href="https://github.com/ullash4"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
